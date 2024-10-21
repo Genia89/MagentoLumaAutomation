@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "whatsNew": {
+      "products": [
+        {
+          "productName": "Wayfarer Messenger Bag",
+          "productId": "24-MB05",
+          "price": 45.00,
+          "currency": "USD",
+          "programCode" : "24-MB05"
+        },
+        {
+          "productName": "Overnight Duffle",
+          "productId": "24-WB07",
+          "price": 45.00,
+          "currency": "USD",
+          "programCode" : "24-WB07"
+        },
+        {
+          "productName": "Summit Watch",
+          "productId": "24-MG03",
+          "price": 54.00,
+          "currency": "USD",
+          "programCode" : "24-MG03"
+        },
+        {
+          "productName": "Dash Digital Watch",
+          "productId": "24-MG02",
+          "price": 92.00,
+          "currency": "USD",
+          "programCode" : "24-MG02"
+        }
+      ]
+    },
+    "women": {
+      "products": [
+        {
+          "productName": "Radiant Tee",
+          "productId": "WS12",
+          "price": 22.00,
+          "currency": "USD",
+          "programCode" : "WS12"
+        },
+        {
+          "productName": "Breathe-Easy Tank",
+          "productId": "WT09",
+          "price": 34.00,
+          "currency": "USD",
+          "programCode" : "WT09"
+        },
+        {
+          "productName": "Selene Yoga Hoodie",
+          "productId": "WH05",
+          "price": 42.00,
+          "currency": "USD",
+          "programCode" : "WH05"
+        },
+        {
+          "productName": "Deirdre Relaxed-Fit Capri",
+          "productId": "WP12",
+          "price": 50.40,
+          "currency": "USD",
+          "programCode" : "WP12"
+        }
+      ]
+    },
+    "men": {
+      "products": [
+        {
+          "productName": "Argus All-Weather Tank",
+          "productId": "MT07",
+          "price": 22.00,
+          "currency": "USD",
+          "programCode" : "MT07"
+        },
+        {
+          "productName": "Hero Hoodie",
+          "productId": "MH07",
+          "price": 54.00,
+          "currency": "USD",
+          "programCode" : "MH07"
+        },
+        {
+          "productName": "Meteor Workout Short",
+          "productId": "MSH03",
+          "price": 32.50,
+          "currency": "USD",
+          "programCode" : "MSH03"
+        },
+        {
+          "productName": "Geo Insulated Jogging Pant",
+          "productId": "MP03",
+          "price": 40.80,
+          "currency": "USD",
+          "programCode" : "MP03"
+        }
+      ]
+    },
+    "gear": {
+      "products": [
+        {
+          "productName": "Fusion Backpack",
+          "productId": "24-MB02",
+          "price": 59.00,
+          "currency": "USD",
+          "programCode" : "24-MB02"
+        },
+        {
+          "productName": "Push It Messenger Bag",
+          "productId": "24-WB04",
+          "price": 45.00,
+          "currency": "USD",
+          "programCode" : "24-WB04"
+        },
+        {
+          "productName": "Affirm Water Bottle",
+          "productId": "24-UG06",
+          "price": 7.00,
+          "currency": "USD",
+          "programCode" : "24-UG06"
+        }
+      ]
+    }
+  }
+}
