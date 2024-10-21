@@ -39,7 +39,7 @@ public class Product {
         this.currency = currency;
     }
 
-    public String getProgramCode() { // Add this method
+    public String getProgramCode() { 
         return programCode;
     }
 
