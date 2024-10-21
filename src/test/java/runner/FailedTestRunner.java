@@ -6,12 +6,12 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "@target/rerun.txt",       // This will run only the failed scenarios listed in rerun.txt
+        features = "@target/rerun.txt",
         glue = "step_definitions",
         plugin = {
                 "html:target/cucumber-failed-reports.html"
         },
-        dryRun = false                        // Set to true if you only want to check the mappings
+        dryRun = false
 )
 
 public class FailedTestRunner {

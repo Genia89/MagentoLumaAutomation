@@ -5,9 +5,8 @@ public class Product {
     private String productId;
     private double price;
     private String currency;
-    private String programCode; // Add this field if it doesn't exist
+    private String programCode;
 
-    // Getters and Setters
     public String getProductName() {
         return productName;
     }
@@ -44,7 +43,7 @@ public class Product {
         return programCode;
     }
 
-    public void setProgramCode(String programCode) { // Add this setter method
+    public void setProgramCode(String programCode) {
         this.programCode = programCode;
     }
 }
